@@ -28,7 +28,7 @@ CVE-2021-44228 found in class file org/apache/logging/log4j/core/net/JndiManager
 
 ## ❓ Background on CVE-2021-44228
 
-A serious Remote Code Execution vulnerability has been discovered within log4j and version 2.0-beta9 to 2.14 are affected. The vulnerability has been classified as critical, as it affected log4j one of the most used logging libraries for Java. There are many references and article out there.
+A serious Remote Code Execution vulnerability has been discovered within log4j and version 2.0-beta9 to 2.14 are affected. The vulnerability has been classified as critical, as it affected log4j one of the most used logging libraries for Java. There are many references and articles out there.
 
 * [Hackernews](https://thehackernews.com/2021/12/extremely-critical-log4j-vulnerability.html)
 * [BSI (german only)](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2021/2021-549032-10F2.pdf?__blob=publicationFile&v=6)
